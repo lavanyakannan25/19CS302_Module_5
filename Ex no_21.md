@@ -25,7 +25,8 @@ int main() {
 ```
 
 ## Output:
-<img width="517" height="187" alt="image" src="https://github.com/user-attachments/assets/9bc6c42e-57cd-4173-967f-06137bf0d39d" />
+<img width="747" height="231" alt="image" src="https://github.com/user-attachments/assets/05c67db1-d08d-484b-a8b2-7c9ef2bde8ab" />
+
 
 
 
